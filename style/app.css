@@ -340,6 +340,10 @@ button {
   max-height: 187.5px;
 }
 
+.movieDetails-video{
+  max-width: 80%;
+}
+
 
 /* Footer */
 footer {
